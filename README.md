@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Elango66
-- 👀 I’m interested in programming languages
+- 👀 I’m interested in problem solving
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on machine learning platform
 - 📫 How to reach me elangovanrs06@gmail.com
